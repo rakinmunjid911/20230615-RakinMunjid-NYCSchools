@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F7A928FE-0F20-4BE3-8A47-78DA61C22053"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2ADFEEF7-73F3-42C2-A19F-F08A618FD389"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230615-RakinMunjid-NYCSchoolsTests/DetailViewControllerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "testSettingViewModelUpdatesUI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2ADFEEF7-73F3-42C2-A19F-F08A618FD389 - 2ce004547777acb7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230615_RakinMunjid_NYCSchoolsTests.DetailViewControllerTests.testSettingViewModelUpdatesUI() -&gt; ()"
+                  moduleName = "20230615-RakinMunjid-NYCSchoolsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rakinmunjid/Desktop/20230615-RakinMunjid-NYCSchools/20230615-RakinMunjid-NYCSchoolsTests/DetailViewControllerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "906">
+               </Location>
+               <Location
+                  uuid = "2ADFEEF7-73F3-42C2-A19F-F08A618FD389 - 2ce004547777ac12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230615_RakinMunjid_NYCSchoolsTests.DetailViewControllerTests.testSettingViewModelUpdatesUI() -&gt; ()"
+                  moduleName = "20230615-RakinMunjid-NYCSchoolsTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rakinmunjid/Desktop/20230615-RakinMunjid-NYCSchools/20230615-RakinMunjid-NYCSchoolsTests/DetailViewControllerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1892">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FD9EF564-E986-44FA-A542-5807F15E7346"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230615-RakinMunjid-NYCSchools/ViewController/SchoolListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "setupFilterButton()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
